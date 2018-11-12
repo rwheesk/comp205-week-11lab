@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    overflow:scroll;
+    height: 1700px;
+}
+
+.menu{
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.intro {
+    background-color: black;
+    color:white;
+    border: 3px dotted blue;
+    border-radius: 5px;
+    height: 30px;
+    width: 350px;
+    text-align: center;
+    padding: 20px;
+    margin: 100px auto;
+}
+
+.full-box{
+    height:300px;
+    background-color:red
+
+}
+
+.middle-box{
+    height: 60px;
+    width:150px;
+    background-color: green;
+    color: white;
+    margin: 75px auto;
+    padding: 20px;
+}
